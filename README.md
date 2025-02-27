@@ -3,7 +3,9 @@
 **🔬 My Background**
 * Education: B.S. in Physics
   
-* Previous Work: At the Simons Foundation, I contributed to research and computational efforts in quantum physics, focusing on studying the electronic structure of [superatomic crystals](https://github.com/chelleorc/super_atomic_crystals) and developing quantum chemistry workflow tools such as [ASE-PySCF](https://github.com/chelleorc/pyscf_ase_github).
+* Previous Work:
+   - At the Simons Foundation, I contributed to research and computational efforts in quantum physics, focusing on studying the electronic structure of [superatomic crystals](https://github.com/chelleorc/super_atomic_crystals) which won the [APS 2024 Future of Physics Top Student Presenter](https://www.brooklyn.edu/bc-brief/latoya-anderson-named-a-top-student-presenter-at-aps-march-meeting/)
+   - Developing quantum chemistry workflow tools such as [ASE-PySCF](https://github.com/chelleorc/pyscf_ase_github).
   
 * Research Interests: Quantum information science, machine learning, and high-performance computing.
 
