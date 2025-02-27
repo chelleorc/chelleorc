@@ -1,4 +1,4 @@
-👋 Hi, I’m LaToya, a computational physicist with a background in quantum physics and high-performance computing. I currently work as a Softworld, Inc federal subcontractor at MIT Lincoln Laboratory Supercomputing Center, where I contribute to cutting-edge computational research and optimization in scientific computing.
+👋 Hi, I’m LaToya, a computational physicist with a background in quantum physics and high-performance computing. I currently work as a [Softworld, Inc](https://softworldinc.com/) subcontractor at [MIT Lincoln Laboratory Supercomputing Center](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/lincoln-laboratory-supercomputing-center), where I contribute to cutting-edge computational research and optimization in scientific computing.
 
 **🔬 My Background**
 * Education: B.S. in Physics
