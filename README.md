@@ -1,8 +1,35 @@
-- 👋 Hi, I’m LaToya
-- 👀 I’m interested in improving computational quantum chemistry methodsusing tools including quantum many-body methods,machine learning,and quantum computing
-- 🌱 I’m currently learning machine learning and quantum computing
-- 💞️ I’m looking to collaborate on scientific software tools
-- 📫 You reach me via email listed in my profile
+👋 Hi, I’m LaToya, a computational physicist with a background in quantum physics and high-performance computing. I currently work as a Softworld, Inc federal subcontractor at MIT Lincoln Laboratory Supercomputing Center, where I contribute to cutting-edge computational research and optimization in scientific computing.
+
+**🔬 My Background**
+* Education: B.S. in Physics
+  
+* Previous Work: At the Simons Foundation, I contributed to research and computational efforts in quantum physics, focusing on studying the electronic structure of [superatomic crystals](https://github.com/chelleorc/super_atomic_crystals) and developing quantum chemistry workflow tools such as [ASE-PySCF](https://github.com/chelleorc/pyscf_ase_github).
+  
+* Research Interests: Quantum information science, machine learning, and high-performance computing.
+
+
+**🚀 What I’m Working On**
+
+* Professional Growth: Expanding my expertise in computational physics and high-performance computing.
+
+* Community Projects:
+  - [Computational Materials Science for Undergraduates](https://github.com/chelleorc/comp_mat_for_undergrads): Resource for undergraduate students interested in computational materials science that provides guidance on available tools and resources to get started.
+  - [Black Physicist Publications Archive](https://github.com/chelleorc/black_physicists_proj) Highlight published and pre-published papers by Black physicists, automating data collection from arXiv and Google Scholar
+
+* Career Goals: Transitioning into a role that allows me to leverage my computational expertise, contribute to quantum information science, and engage in science communication.
+
+
+**🌱 What I’m Looking For**
+
+* Opportunities: I’m interested in roles that align with my expertise in quantum chemistry, high performmance computing, and machine learning.
+
+* Collaborations: Open to working on projects that bridge quantum many-body systems and computational science with broader applications in materials science, drug discovery, and quantum computing.
+
+* Networking: Engaging with professionals in physics, quantum information, and computational science.
+
+**✨ Connect with Me**
+* [LinkedIn](https://www.linkedin.com/in/latoyaanderson1/)
+* [Website](https://www.latoyascisoftwaredev.com/)
 
 <!---
 chelleorc/chelleorc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
