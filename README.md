@@ -1,39 +1,98 @@
-👋 Hi, I’m LaToya, a computational physicist with a background in quantum physics and high-performance computing. I currently work as a [Softworld, Inc](https://softworldinc.com/) subcontractor at [MIT Lincoln Laboratory Supercomputing Center](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/lincoln-laboratory-supercomputing-center), where I contribute to cutting-edge computational research and optimization in scientific computing.
+# Hi, I'm LaToya Anderson 👋🏾
 
-**🔬 My Background**
-* Education: B.S. in Physics
-  
-* Previous Work:
-   - At the Simons Foundation, I contributed to research and computational efforts in quantum physics, focusing on studying the electronic structure of [superatomic crystals](https://github.com/chelleorc/super_atomic_crystals) which won the [APS 2024 Future of Physics Top Student Presenter](https://www.brooklyn.edu/bc-brief/latoya-anderson-named-a-top-student-presenter-at-aps-march-meeting/)
-   - Developing quantum chemistry workflow tools such as [ASE-PySCF](https://github.com/chelleorc/pyscf_ase_github).
-  
-* Research Interests: Quantum information science, machine learning, and high-performance computing.
+I'm a **computational physicist and HPC research facilitator** working at the intersection of **high-performance computing, scientific computing, and quantum information science**.
 
+I currently support researchers using large-scale computing systems at the **MIT Lincoln Laboratory Supercomputing Center**, where my work spans scientific software environments, HPC workflows, Linux systems, Python tooling, and researcher-facing technical support.
 
-**🚀 What I’m Working On**
+My broader technical interests center on a question I'm especially excited about:
 
-* Professional Growth: Expanding my expertise in computational physics and high-performance computing.
+> **How do we combine HPC and quantum computing to solve computationally difficult scientific problems?**
 
-* Community Projects:
-  - [Computational Materials Science for Undergraduates](https://github.com/chelleorc/comp_mat_for_undergrads): Resource for undergraduate students interested in computational materials science that provides guidance on available tools and resources to get started.
-  - [Black Physicist Publications Archive](https://github.com/chelleorc/black_physicists_proj) Highlight published and pre-published papers by Black physicists, automating data collection from arXiv and Google Scholar
+I'm particularly interested in **quantum supercomputing, quantum-HPC integration, computational many-body physics, and scientific software infrastructure**.
 
-* Career Goals: Transitioning into a role that allows me to leverage my computational expertise, contribute to quantum information science, and engage in science communication.
+## 🔬 What I Work With
 
+**High-Performance Computing**
 
-**🌱 What I’m Looking For**
+* Linux
+* Slurm
+* HPC job workflows and job arrays
+* Scientific software environments
+* Python
+* Conda / pip / spack
+* Research computing support and workflow troubleshooting
 
-* Opportunities: I’m interested in roles that align with my expertise in quantum chemistry, high performmance computing, and machine learning.
+**Computational Physics & Scientific Computing**
 
-* Collaborations: Open to working on projects that bridge quantum many-body systems and computational science with broader applications in materials science, drug discovery, and quantum computing.
+* Quantum many-body systems
+* Electronic-structure calculations
+* Density functional theory
+* Tight-binding models
+* Wannier functions
+* Quantum chemistry workflows
+* PySCF
+* ASE
+* Quantum ESPRESSO
+* Wannier90
 
-* Networking: Engaging with professionals in physics, quantum information, and computational science.
+**Quantum + HPC — Current Learning & Exploration**
 
-**✨ Connect with Me**
+* Quantum-classical computing workflows
+* Quantum computing integration with HPC systems
+* Quantum intermediate representations and compilation
+* Quantum numerical methods
+* Modern C++ for HPC
+* GPU/CUDA computing
+
+## ⚛️ Selected Work
+
+### [Superatomic Crystals](https://github.com/chelleorc/super_atomic_crystals)
+
+Computational research investigating the electronic structure of superatomic crystals.
+
+This work contributed to my **APS March Meeting 2024 Top Presenter recognition** and strengthened my interest in computational many-body physics and quantum materials.
+
+### [ASE–PySCF](https://github.com/chelleorc/pyscf_ase_github)
+
+Scientific software work integrating **PySCF electronic-structure calculations with the Atomic Simulation Environment (ASE)** to improve computational chemistry workflows.
+
+### [Computational Materials Science for Undergraduates](https://github.com/chelleorc/comp_mat_for_undergrads)
+
+An educational resource introducing undergraduate students to computational materials science, scientific computing tools, and pathways for getting started in the field.
+
+### [Black Physicists Publications Archive](https://github.com/chelleorc/black_physicists_proj)
+
+A project highlighting published and preprint research by Black physicists, with work toward automating literature collection from sources including arXiv.
+
+## 🚀 What I'm Exploring Now
+
+I'm currently deepening my technical work in **HPC systems and quantum computing**, with particular emphasis on:
+
+* Quantum + HPC / quantum supercomputing architectures
+* Quantum numerical methods and many-body simulation
+* HPC performance and scientific workflow optimization
+* Modern C++ for scientific and high-performance computing
+* GPU programming and CUDA fundamentals
+* Quantum compilation and intermediate representations
+* Hybrid quantum-classical scientific workloads
+
+I'm especially interested in projects where **physics, mathematical modeling, scientific software, and large-scale computing meet**.
+
+## 🎯 What I'm Interested In
+
+I'm interested in technical and research-facing roles in areas such as:
+
+**High-Performance Computing • Scientific Computing • Computational Physics • Quantum Computing • Quantum-HPC Integration • Quantum Software • Research Computing**
+
+I'm particularly drawn to teams developing the computational infrastructure, algorithms, and scientific workflows needed for the next generation of **HPC and quantum-enabled scientific computing**.
+
+## 🌐 Beyond the Code
+
+I'm also a science communicator and speaker focused on making advanced physics and computing accessible to broader audiences.
+
+My background spans **physics, scientific software, research computing, and the performing arts**, which strongly influences how I approach technical communication, collaboration, and interdisciplinary problem solving.
+
+## 📫 Connect With Me
+
 * [LinkedIn](https://www.linkedin.com/in/latoyaanderson1/)
 * [Website](https://www.latoyascisoftwaredev.com/)
-
-<!---
-chelleorc/chelleorc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
